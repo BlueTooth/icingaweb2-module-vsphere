@@ -13,6 +13,7 @@ class VirtualMachine extends ManagedObject
             'parent',
             'guest.hostName',
             'guest.ipAddress',
+            'guest.net',
             'guest.guestId',
             'guest.guestFullName',
             'guest.guestState',
